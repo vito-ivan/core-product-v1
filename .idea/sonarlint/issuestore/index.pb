@@ -19,3 +19,12 @@ psrc/main/java/com/lapositiva/services/productdirectory/products/infrastructure/
 ysrc/main/java/com/lapositiva/services/productdirectory/products/infrastructure/inbound/controllers/ProductController.java,d\4\d4042e86a19f19a32546c3f195e994ae1fc31526
 û
 nsrc/main/java/com/lapositiva/services/productdirectory/products/infrastructure/ProductQueryRepositoryImpl.java,9\3\931bca02aaa860316246362e93e0d375351b3376
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+¿
+èsrc/main/java/com/lapositiva/services/productdirectory/products/infrastructure/outbound/database/postgresql/utils/exception/ExceptionUtils.java,4\6\4607eb4adc8083f40cc858fd2a643ac50d1f511f
+ƒ
+ìsrc/main/java/com/lapositiva/services/productdirectory/products/infrastructure/outbound/database/postgresql/utils/exception/CustomApiException.java,b\1\b19458fff154187927dc6566a6f222ddd20c70b0
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
