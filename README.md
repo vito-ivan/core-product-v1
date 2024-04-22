@@ -1,4 +1,4 @@
-# CotizadorPrimaUnica
+# Core Product V1
 ## Ejecutando la Configuración de Docker Compose
 
 Para iniciar los contenedores como se define en tu archivo docker-compose.yml, navega al directorio que contiene el archivo y ejecuta:

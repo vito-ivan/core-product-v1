@@ -1,0 +1,7 @@
+src/main/java/com/lapositiva/services/productdirectory/products/domain/model/PostProductResponse.java
+src/main/java/com/lapositiva/services/productdirectory/products/domain/model/ProductRequest.java
+src/main/java/com/lapositiva/services/productdirectory/products/domain/model/ProductResponse.java
+src/main/java/com/lapositiva/services/productdirectory/products/infrastructure/inbound/controllers/ApiUtil.java
+src/main/java/com/lapositiva/services/productdirectory/products/infrastructure/inbound/controllers/ProductApi.java
+src/main/java/com/lapositiva/services/productdirectory/products/infrastructure/inbound/controllers/ProductApiController.java
+src/main/java/com/lapositiva/services/productdirectory/products/infrastructure/inbound/controllers/ProductApiDelegate.java

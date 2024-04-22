@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\application\create\ProductCreateUseCase.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\application\find\ProductFindUseCase.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\domain\model\drools\RepositoryTypeDto.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\domain\model\ProductDto.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\domain\model\ProductEntity.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\domain\model\ProductPostgresqlEntity.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\domain\repository\ProductCommandRepository.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\domain\repository\ProductQueryRepository.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\ProductController.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\config\ApplicationReadyListener.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\constants\Constants.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\constants\ErrorCategory.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\constants\HttpHeadersKey.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\exception\ApiException.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\exception\ApiExceptionBuilder.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\exception\ApiExceptionDetail.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\utils\JacksonMapperFactory.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\utils\utils\PropertyUtils.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\web\ErrorCategoryFromThrowable.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\inbound\controllers\web\ErrorControllerAdvice.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\mongobd\utils\constants\Constants.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\mongobd\utils\exception\CustomApiException.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\mongobd\utils\exception\ExceptionUtils.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\postgresql\utils\constants\Constants.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\postgresql\utils\exception\CustomApiException.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\postgresql\utils\exception\ExceptionUtils.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\ProductMongoDdRepository.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\database\ProductPostgresqlRepository.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\drools\DroolsConfig.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\outbound\drools\DroolsService.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\ProductCommandRepositoryImpl.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\products\infrastructure\ProductQueryRepositoryImpl.java">
+</file>
+<file name="C:\Users\villave\Downloads\practica\core-product-v1\src\main\java\com\lapositiva\services\productdirectory\StartApplication.java">
+</file>
+</checkstyle>

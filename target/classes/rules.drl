@@ -1,0 +1,15 @@
+import  com.lapositiva.services.productdirectory.products.domain.model.drools.RepositoryTypeDto;
+
+rule "Access MongoDB Repository"
+	when
+		$repositoryTypeDto : RepositoryTypeDto(inboundCode == "mongodb")
+	then
+	    $repositoryTypeDto.setOutboundCode("mongodb");
+end;
+
+rule "Access Mysql Repository"
+	when
+		$repositoryTypeDto : RepositoryTypeDto(inboundCode == "mysql")
+	then
+	    $repositoryTypeDto.setOutboundCode("mysql");
+end;
