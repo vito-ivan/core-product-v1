@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindBugsFilter>
+
+    <Match>
+        <Package name="~com\.lapositiva\.services\.productdirectory.*"/>
+        <Bug pattern="SLF4J_LOGGER_SHOULD_BE_NON_STATIC,CRLF_INJECTION_LOGS,EI_EXPOSE_REP2,EI_EXPOSE_REP"/>
+    </Match>
+
+    <Match>
+        <Package name="~com\.lapositiva\.services\.productdirectory\.products\.infrastructure\.inbound\.controllers.*"/>
+        <Bug pattern="SPRING_ENDPOINT,SIC_INNER_SHOULD_BE_STATIC_ANON"/>
+    </Match>
+
+    <Match>
+        <Class name="com.lapositiva.services.productdirectory.products.infrastructure.outbound.database.postgresql.utils.exception.CustomApiException"/>
+        <Bug pattern="NM_CLASS_NOT_EXCEPTION"/>
+    </Match>
+
+    <Match>
+        <Class name="com.lapositiva.services.productdirectory.products.infrastructure.outbound.database.mongobd.utils.exception.CustomApiException"/>
+        <Bug pattern="NM_CLASS_NOT_EXCEPTION"/>
+    </Match>
+
+</FindBugsFilter>
+
+
+
+
